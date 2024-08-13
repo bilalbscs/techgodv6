@@ -4,26 +4,26 @@
 //Instagram: techgod143
 //Telegram: t.me/techgod143
 //GitHub: @techgod143
-//WhatsApp: +917466008456
+//WhatsApp: +923349952285
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923110386034"
-global.ownername = "🐛 Basit"
+global.ownernomer = "923349852285"
+global.ownername = "🐛 BK"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: 123"
 global.location = "India, Rampur, city"
 
-global.ownernumber = '923110386034'  //creator number
-global.ownername = 'Basit' //owner name
+global.ownernumber = '923349952285'  //creator number
+global.ownername = 'BK' //owner name
 global.botname = 'Tech God Bug' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +923110386034'
+global.author = 'Tech-God\n\nContact: +923349952285'
 
 //console view/theme
 global.themeemoji = '🪀'
